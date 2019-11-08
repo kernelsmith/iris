@@ -111,7 +111,7 @@ As shown in the screenshot above, just run: `!iris.modules` or simply `!modules`
 
 I put this together in a day to save some time during a specific assignment. It worked for me but it hasn't been thoroughly tested. You have been warned, use at your own risk.
 
-I'll be updating and maintining this, so any issues you may find please let me know. I plan to add a few more mitigations later.
+I'll be updating and maintaining this, so any issues you may find please let me know. I plan to add a few more mitigations later.
 
 ## References
 
